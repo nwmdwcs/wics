@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Домашняя -->
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Велика Палата Верховного Суду
