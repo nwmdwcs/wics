@@ -3,7 +3,7 @@
 
 # Велика Палата Верховного Суду
 
-[Відступлення від висновків ВСУ](https://wicase.herokuapp.com/VPVV)
+[Відступлення від висновків ВСУ](https://wicase.herokuapp.com/Відступлення від висновків ВСУ)
 [Виключна правова проблема](https://wicase.herokuapp.com/VPVPP)
 [З питань юрисдикції](https://wicase.herokuapp.com/VPJU)
 
