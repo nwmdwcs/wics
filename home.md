@@ -11,4 +11,4 @@
 
 [Рубрикатор правових позицій за тематикою](https://wicase.herokuapp.com/tags)
 
-[](/uploads/---.xls "")
+[Перелік](/uploads/---.xls "")
