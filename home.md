@@ -51,3 +51,8 @@ https://github.com/emirn/google_sheet_reader_bot
 https://chatbotsmagazine.com/build-a-bot-with-zero-coding-on-google-sheets-922f20d80c51
 https://github.com/yukuku/telebot
 https://zapier.com/blog/how-to-build-chat-bot/
+https://www.codementor.io/garethdwyer/building-a-chatbot-using-telegram-and-python-part-2-sqlite-databse-backend-m7o96jger
+https://habr.com/post/316868/
+https://github.com/Normally/quickbot
+https://www.codementor.io/djangostars/create-deploy-telegram-bot-python-7jggn472x
+https://www.slideshare.net/maddevs/telegram-google-creating-a-telegram-bot-with-google-services-free
