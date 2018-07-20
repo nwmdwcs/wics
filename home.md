@@ -4,6 +4,8 @@
 # Велика Палата Верховного Суду (9951)
 
 [Відступлення від висновків ВСУ](https://wicase.herokuapp.com/VPVV)
+http://reyestr.court.gov.ua/Review/75287045 - виндикация
+
 [Виключна правова проблема](https://wicase.herokuapp.com/VPVPP)
 [З питань юрисдикції](https://wicase.herokuapp.com/VPJU)
 
@@ -44,3 +46,8 @@
 28. http://posipaky.info/
 29. http://id.court.gov.ua/
 30. uaidx.com
+
+https://github.com/emirn/google_sheet_reader_bot
+https://chatbotsmagazine.com/build-a-bot-with-zero-coding-on-google-sheets-922f20d80c51
+https://github.com/yukuku/telebot
+https://zapier.com/blog/how-to-build-chat-bot/
