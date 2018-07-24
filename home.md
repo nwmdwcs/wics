@@ -57,3 +57,21 @@ https://habr.com/post/316868/
 https://github.com/Normally/quickbot
 https://www.codementor.io/djangostars/create-deploy-telegram-bot-python-7jggn472x
 https://www.slideshare.net/maddevs/telegram-google-creating-a-telegram-bot-with-google-services-free
+Dialogflow
+Wit.ai
+Zenbot
+Chatfuel
+Aimylogic
+Bot Libre
+Вертер
+Storyline
+А-я-яй.ру
+botmother
+ManyChat
+Amazon Lex
+Microsoft Bot Framework
+Kore.ai
+Flow XO
+Pandorabots
+Другое
+
