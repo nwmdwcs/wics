@@ -13,7 +13,7 @@ http://reyestr.court.gov.ua/Review/75287045 - виндикация
 
 [Рубрикатор правових позицій за тематикою](https://wicase.herokuapp.com/tags)
 
-# Алгоритмы 
+# Алгоритми 
 [Алгоритми дій, чек-листи](https://wicase.herokuapp.com/algoritm)
 
 # Інфоресурси
