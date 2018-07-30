@@ -80,6 +80,9 @@ Pandorabots
 Позиции БВ ВС по банкам
 https://nabu.ua/ru/praktika-verhovnogo-sudu-za-traven.html
 
+Анализ практики Третейским судом при АУБ
+http://tretsud.aub.org.ua/index.php?option=com_content&task=blogcategory&id=11&Itemid=28
+
 
 
 Херсонський міський суд Херсонської області
