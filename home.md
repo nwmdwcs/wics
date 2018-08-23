@@ -8,11 +8,11 @@
 37kd82k4a5k438 
 63jws82km52s6j 
 
-25cb50e53hs812 
-62hs12jf85ad34 
-75sj96low21kk3 
-37kd82k4a5k438 
-63jws82km52s6j 
+25cb50e53hs812 - ипотека
+62hs12jf85ad34 - поручительство
+75sj96low21kk3 - земля
+37kd82k4a5k438 - огис
+63jws82km52s6j - трудовое
 
 25cb50e53hs812 
 62hs12jf85ad34 
