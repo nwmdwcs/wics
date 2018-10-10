@@ -7,6 +7,8 @@
 Справа 514/134/17  http://reyestr.court.gov.ua/Review/74963333
 Справа 278/161/17 http://reyestr.court.gov.ua/Review/75345627
 # Банкрутство
+https://sud.ua/ru/news/blog/126313-koli-protsedura-sanatsiyi-perevazhnisha-za-likvidatsiyu
+
 #### Витрати ліквідатора 
 Не на користь банку http://reyestr.court.gov.ua/Review/73700072
 
