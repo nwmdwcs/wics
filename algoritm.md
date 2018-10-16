@@ -5,6 +5,7 @@
 
 * Реєстрація ТОВ https://www.epravda.com.ua/publications/2018/08/14/639353/
 * Реєстрація ТМ https://ckp.in.ua/articles/7736
+* http://pomichnyk.org/dlya-yurydychnyh-osib/torhova-marka/zrazok-paketu-dokumentiv-dlya-rejestratsiji-torhovoji-marky-znaka-dlya-tovariv-i-posluh.html
 
 Суть – одна и та же, а какие разные ухвалы)))
 
