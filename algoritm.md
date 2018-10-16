@@ -1,17 +1,31 @@
 <!-- TITLE: Алгоритмы действий -->
 <!-- SUBTITLE: Информация по немедленным действиям в различных ситуациях -->
 
+# Работа
+
+* Реєстрація ТОВ https://www.epravda.com.ua/publications/2018/08/14/639353/
+* Реєстрація ТМ https://ckp.in.ua/articles/7736
+
+Суть – одна и та же, а какие разные ухвалы)))
+
+http://reyestr.court.gov.ua/Review/76841926
+
+http://reyestr.court.gov.ua/Review/76689660
+
+
 # Задержание
-
-Реєстрація ТОВ
-https://www.epravda.com.ua/publications/2018/08/14/639353/
-
-
 http://protokol.com.ua/ua/algoritm_dii_zahisnika_pri_zatrimanni_osobi_za_pidozroyu_u_vchinenni_kriminalnogo_pravoporushennya/
 http://unba.org.ua/assets/uploads/legislations/education-materials/d%D1%96ji-zahisnika-pri-zatrimann%D1%96-osobi-za-p%D1%96dozroju-u-vchinenn%D1%96-krim%D1%96nalnogo-pravoporushennja.pdf
 
 Образцы документов в уголовном
 http://personal-advokat.com.ua/zrazky-doc/2-uncategorised/42-zrazki-dokumentiv-u-kriminalnomu-sudochinstvi.html
+
+Постанова по светофору
+http://reyestr.court.gov.ua/Review/76568337
+http://reyestr.court.gov.ua/Review/76174583 - закрито по строкам
+https://www.osmark.com.ua/2018/05/23/%D1%81%D0%BA%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8-%D0%BF%D0%BE%D0%BB%D1%96%D1%86%D1%96%D1%97-%D0%B7%D1%80%D0%B0%D0%B7%D0%BE%D0%BA/ - зразок скарги + інструкція 
+https://ckp.in.ua/articles/9821 - стаття як оскаржувати (постанова без протоколу незаконна)
+
 
 Слідчому судді НАЗВА СУДУ
 
