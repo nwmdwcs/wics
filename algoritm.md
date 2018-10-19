@@ -9,6 +9,8 @@
 http://uipv.org/ua/blanki_pohodj.html
 http://zrazok.pozovsud.com.ua/oglyad_zakonodavstva/5-tipovix-pomilok-pri-reyestracii-torgovix-marok.html
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiX34_nmpLeAhXIhSwKHQBTDTAQFjADegQIBhAB&url=https%3A%2F%2Fdu24.com.ua%2Fuk%2Fnovyny%2F44-rekomendatsiji-pri-skladenni-postanovi&usg=AOvVaw3lAyYWA4NdaKlckM7PnGVh
+
 
 
 
