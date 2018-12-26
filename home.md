@@ -2,8 +2,11 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 
-# Статья
 
+# ссылки 
+https://habr.com/company/lanit/blog/434146/
+
+# Статья
  
 Справа № 522/17015/15-ц 
 Провадження по справі № 
