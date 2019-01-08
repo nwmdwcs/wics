@@ -3,6 +3,7 @@
 
 # ссылки практика
 http://reyestr.court.gov.ua/Review/78929928 - захист прав держави прокурором є неналежним
+http://vkp.ua/content/news/files/yz_kolos_hpk_ukr_1513868393_ua.pdf - новые кодексы (Кисиль)
 
 https://protocol.ua/ua/zelenchuk_ta_tsitsyura_proti_ukraini/
 Оскарження реєстрації прав та обтяжень.
