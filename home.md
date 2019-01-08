@@ -277,7 +277,7 @@ http://od.reyestr.court.gov.ua/files/37/7b719c06aa311fb8a5b7b57e7f88724d.rtf
 
 ### Невірно оскаржено. Рішення в кас. п. 13 Перехідних
 законність і обґрунтованість рішення суду першої інстанції лише в межах доводів та вимог апеляційної скарги
-
+https://sud.ua/ru/news/blog/120607-kasatsiyne-oskarzhennya-osoboyu-yaka-ne-brala-uchast-u-spravi-spirniy-moment
 # ссылки 
 https://habr.com/company/lanit/blog/434146/
 Джобс Империя соблазна [2013]
