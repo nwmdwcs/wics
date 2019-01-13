@@ -5,6 +5,7 @@
 http://reyestr.court.gov.ua/Review/78929928 - захист прав держави прокурором є неналежним
 http://vkp.ua/content/news/files/yz_kolos_hpk_ukr_1513868393_ua.pdf - новые кодексы (Кисиль
 http://reyestr.court.gov.ua/Review/66940063 - приговор адвоката
+https://www.dom-pravo.kiev.ua/ - много шаблонов
 
 https://protocol.ua/ua/zelenchuk_ta_tsitsyura_proti_ukraini/
 Оскарження реєстрації прав та обтяжень.
