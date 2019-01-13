@@ -1,7 +1,7 @@
 <!-- TITLE: Главная -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-## ссылки практика
+# ссылки практика
 http://reyestr.court.gov.ua/Review/78929928 - захист прав держави прокурором є неналежним
 http://vkp.ua/content/news/files/yz_kolos_hpk_ukr_1513868393_ua.pdf - новые кодексы (Кисиль
 http://reyestr.court.gov.ua/Review/66940063 - приговор адвоката
