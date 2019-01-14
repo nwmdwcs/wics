@@ -7,6 +7,7 @@ http://vkp.ua/content/news/files/yz_kolos_hpk_ukr_1513868393_ua.pdf - новые
 http://reyestr.court.gov.ua/Review/66940063 - приговор адвоката
 https://www.dom-pravo.kiev.ua/ - много шаблонов
 ВС ВП у справі № 372/504/17 від 21 листопада 2018р. іпотека недійсна бо спільна власність
+https://sudpraktika.wordpress.com - сайт з практикою судді
 
 https://protocol.ua/ua/zelenchuk_ta_tsitsyura_proti_ukraini/
 Оскарження реєстрації прав та обтяжень.
