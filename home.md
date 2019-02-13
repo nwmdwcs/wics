@@ -8,6 +8,7 @@
 
 - Квартира Миколаївська обл., м. Миколаїв, вулиця Дзержинського, будинок 49, квартира 23
 - позов про визнання договору недійсним
+https://supreme.court.gov.ua/supreme/pres-centr/news/633254/?fbclid=IwAR0yiUjHzyVcmMJwrz4DXsGRpOtI7daLIru1AFfwvj1k5ptaoKphTuKs9xA
 
 - м.Київ, вулиця Ломоносова, будинок 30/2, квартира 45
 
