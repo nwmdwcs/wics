@@ -18,7 +18,7 @@
 - за довіреністю на авто надано право: одержувати належні суми
 
 https://zib.com.ua/ua/print/132770-avto_za_dovirenistyu_vs_zobovyazav_prodavcya_vertati_groshi_.html
-
+https://lawyer.ua/blog/yushchenko_tatiana/nedobrosovisniy-predstavnik-yak-povernuti-vtrachene-mayno.html
 
 Дата останньої реєстрації ТЗ	11-11-2017
 Місце проведення останньої реєстрації (ТСЦ)	ТСЦ 8044
