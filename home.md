@@ -25,6 +25,9 @@ https://supreme.court.gov.ua/supreme/pres-centr/news/633254/?fbclid=IwAR0yiUjHzy
 https://zib.com.ua/ua/print/132770-avto_za_dovirenistyu_vs_zobovyazav_prodavcya_vertati_groshi_.html
 https://lawyer.ua/blog/yushchenko_tatiana/nedobrosovisniy-predstavnik-yak-povernuti-vtrachene-mayno.html
 
+Витребування
+http://reyestr.court.gov.ua/Review/78106989
+
 Дата останньої реєстрації ТЗ	11-11-2017
 Місце проведення останньої реєстрації (ТСЦ)	ТСЦ 8044
 Номерний знак	АВ2504СО
