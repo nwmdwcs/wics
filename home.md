@@ -180,7 +180,7 @@ live street
 bitrix24
 signupgenius
 
-# Кассация ФБ
+# ФБ элит
 ## Ссылки
 http://kmp.ua/uk/analytics/infoletters/the-right-for-renewal-of-terms-for-appeal/ - статья по теме + практика ЕС еще одна
 http://reyestr.court.gov.ua/Review/77983845 - перехідні, незмінність рішення
@@ -195,6 +195,10 @@ http://reyestr.court.gov.ua/Review/74456128 - проц фильтр, в касс
 http://reyestr.court.gov.ua/Review/56219083 - залучили Улыбышева 29.02.2016
 http://reyestr.court.gov.ua/Review/59894269 - первое решение апелляции
 http://od.reyestr.court.gov.ua/files/37/ddf20b26bde554a88ca5a936f6a7ae4e.rtf - эта ухвала должна быть в деле!!!
+
+## Віндикація
+https://blog.liga.net/user/emorozov/article/31523
+https://blog.liga.net/user/emorozov/article/29566
 
 
 ## Отработать
