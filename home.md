@@ -199,7 +199,8 @@ http://od.reyestr.court.gov.ua/files/37/ddf20b26bde554a88ca5a936f6a7ae4e.rtf - �
 ## Віндикація
 https://blog.liga.net/user/emorozov/article/31523
 https://blog.liga.net/user/emorozov/article/29566
-
+https://oda.court.gov.ua/sud1590/pravovipoziciivsu/6-3090cs15 (Постанова Верховного Суду України від 02.03.2016 р. у справі №6-3090цс15)
+https://oda.court.gov.ua/sud1590/pres-centr/news/320665/
 
 ## Отработать
 * доказательства отправки улыбышеву ап жалобы. Вообще отправки чего нибудь.
