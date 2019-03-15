@@ -1085,7 +1085,10 @@ http://wiki.1551.gov.ua/
 
 https://constructorus.ru/psixologiya/kak-otvetit-na-oskorblenie.html
 
+# ДТП 
+http://reyestr.court.gov.ua/Review/79955354
 # Шайтан
+
 
 1	2	4	0	800/591/17	Питання незаконності бездіяльності Вищої ради правосуддя щодо ненадання публічної інформації на запит Вищої кваліфікаційної комісії суддів України стосовно кандидатів до Верховного Суду	74699860	повна	http://od.reyestr.court.gov.ua/files/37/2e5a41e14b3814acf8892f8cc7ebb504.rtf	"""2018-06-18 00:00:00+03"""	ВРП, ВККС
 
