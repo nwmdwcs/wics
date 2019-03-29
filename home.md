@@ -154,6 +154,7 @@ http://reyestr.court.gov.ua/Review/78106781
 вим банкротство
 # ссылки практика
 https://kazky.org.ua - казки
+http://reyestr.court.gov.ua/Review/77397730 - довіреність з вказівкою "АДВОКАТ" не потрібна
 https://supremecourtua.tumblr.com/ - Кравец и партнеры
 http://reyestr.court.gov.ua/Review/78929928 - захист прав держави прокурором є неналежним
 http://vkp.ua/content/news/files/yz_kolos_hpk_ukr_1513868393_ua.pdf - новые кодексы (Кисиль
