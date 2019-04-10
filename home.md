@@ -2,10 +2,10 @@
 <!-- SUBTITLE: Зміст та посилання на інші сторінки -->
 
 # Телефони, контакти
-**Суди** [Суди](https://wicase.herokuapp.com/contacts-courts)
-**Силові органи**
-**Експертні організації**
-**Інше**
+[Суди](https://wicase.herokuapp.com/contacts-courts)
+[Силові органи](https://wicase.herokuapp.com/contacts-courts)
+[Експертні організації](https://wicase.herokuapp.com/contacts-experts)
+[Інше](https://wicase.herokuapp.com/contacts-other)
 # Велика Палата Верховного Суду
 [2018 рік](https://wicase.herokuapp.com/VPVS18)
 
