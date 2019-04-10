@@ -14,3 +14,5 @@
 # Алгоритми 
 [Алгоритми дій, чек-листи](https://wicase.herokuapp.com/algoritm)
 # Статті, посилання
+Ресурс для организации проектов https://trello.com
+Определение неизвестного номера https://www.truecaller.com/
