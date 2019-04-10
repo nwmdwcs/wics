@@ -2,6 +2,11 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Иванив
+https://www.xwiki.org/xwiki/bin/view/Main/WebHome
+
+
+
+
 - Квартира, загальною площею 59,0 кв.м., житловою площею 19,0 кв.м., що розташована за адресою: вул. Чкалова, буд. 91-А, кв. 22, м. Миколаїв, реєстраційний номер майна 31664241 (проживав Остапчук)
 - http://avlaw.kiev.ua/ru/prochie-uslugi/rubriki/9-uncategorised/185-zrazok-pozovu-pro-podil-majna-podruzhzhya.html
 - http://www.zonazakona.com.ua/simeyni-vidnosini/podil-mayna-podruzhia/475-zrazok-pozovnoi-zaiavi-pro-podil-spilnoho-maina-podruzhzhia.html
