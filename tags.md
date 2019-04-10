@@ -9,7 +9,7 @@
 # Банкрутство
 https://sud.ua/ru/news/blog/126313-koli-protsedura-sanatsiyi-perevazhnisha-za-likvidatsiyu
 
-#### Витрати ліквідатора 
+** Витрати ліквідатора **
 Не на користь банку http://reyestr.court.gov.ua/Review/73700072
 
 **Принцип безсумнівної повноти дій ліквідатора**  (стаття https://sud.ua/ru/news/blog/120138-sudoviy-kontrol-za-diyami-likvidatoriv)
