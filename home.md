@@ -9,7 +9,7 @@
 ***
 **Алгоритми:** [Першочергові дії, чек-листи](https://wicase.herokuapp.com/algoritm)
 ***
-**Засоби доказування** [Державні реєстри] (https://wicase.herokuapp.com/reyestr)
+**Засоби доказування** [Державні реєстри](https://wicase.herokuapp.com/reyestr)
 ***
 **Статті, посилання:**
 Веб-ресурс для організації проектів: https://trello.com
