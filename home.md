@@ -10,8 +10,8 @@
 **Алгоритми:** [Першочергові дії, чек-листи](https://wicase.herokuapp.com/algoritm)
 ***
 **Статті, посилання:**
-Ресурс для организации проектов https://trello.com
-Определение неизвестного номера https://www.truecaller.com/
+Веб-ресурс для організації проектів: https://trello.com
+Визначник невідомомого телефонного номера: https://www.truecaller.com/
 ***
 **Оформлення інформації на цьому сайті** 
 [Що таке Markdown](https://guides.hexlet.io/markdown)
