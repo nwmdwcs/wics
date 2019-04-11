@@ -12,3 +12,6 @@
 **Статті, посилання:**
 Ресурс для организации проектов https://trello.com
 Определение неизвестного номера https://www.truecaller.com/
+***
+**Оформлення інформації на цьому сайті** 
+[Що таке Markdown](https://guides.hexlet.io/markdown)
