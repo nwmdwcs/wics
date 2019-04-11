@@ -9,6 +9,8 @@
 ***
 **Алгоритми:** [Першочергові дії, чек-листи](https://wicase.herokuapp.com/algoritm)
 ***
+**Засоби доказування** (https://wicase.herokuapp.com/algoritm)
+***
 **Статті, посилання:**
 Веб-ресурс для організації проектів: https://trello.com
 Визначник невідомомого телефонного номера: https://www.truecaller.com/
