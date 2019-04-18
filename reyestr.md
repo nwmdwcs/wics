@@ -7,3 +7,4 @@
 - Кабінет онлайн послуг Мінюсту https://online.minjust.gov.ua/login
 - Інспекційний портал https://inspections.gov.ua/
 - Дані з реєстрів ЄДР https://ring.org.ua/
+- Торговий реєстр Великобританії https://beta.companieshouse.gov.uk/
