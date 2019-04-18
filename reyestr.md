@@ -9,3 +9,4 @@
 - Дані з реєстрів ЄДР https://ring.org.ua/
 - Торговий реєстр Великобританії https://beta.companieshouse.gov.uk/
 - Укрпатент http://uipv.org/ua/bases2.html
+- The Open Database Of The Corporate World https://opencorporates.com
