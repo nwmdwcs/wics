@@ -147,6 +147,7 @@ http://www.reyestr.court.gov.ua/Review/75149541 - позиція ВП ВС, зг
 # Кримінальний процес
 ## Підозра
 - Повідомлення особи про підозру та набуття особою статусу підозрюваного можна оскаржити до слідчого судді (Справа № 628/2720/17)
+- Практика скасування підозри https://zib.com.ua/ua/137331-praktika_skasuvannya_pidozri_advokati_chekayut_uzagalnennya_.html?fbclid=IwAR19FQzIcjewHsnwwivZW8mNeScE1gXBbyUjWWCsxgSntVV2L0rieX-zQBs
 ## Арешти, обтяження
 -Зняття арештів, накладених в рамках КПК, можливе тільки в порядку, передбаченому КПК.  Постанова ВПВС у справі №461/233/17-ц (провадження №14-326цс18) від 17.10.2018р. (http://reyestr.court.gov.ua/Review/77361936)
 
