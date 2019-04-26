@@ -12,6 +12,7 @@
 - http://moneta.org.ua/sledite-za-dengami-posobie-dlya-zhurnalistov.html
 - The Open Database Of The Corporate World https://opencorporates.com
 - Дані з реєстрів ЄДР https://ring.org.ua/
+- ЧЕСНО. Фільтруй суд! https://chesnosud.org/
 
 # Зарубіжні торгові реєстри
 - Торговий реєстр Великобританії https://beta.companieshouse.gov.uk/
