@@ -11,7 +11,7 @@
 - Єдиний ліцензійний реєстр. http://irc.gov.ua/ua/Poshuk-v-YeLR.html  
 - Сервіс Державної фіскальної служби України «Бізнес-партнер». http://sfs.gov.ua/businesspartner
 - Єдиний державний реєстр судових рішень http://www.reyestr.court.gov.ua/
-- Пошуковий сервіс Вищого господарського суду України. http://vgsu.arbitr.gov.ua/pages/157  
+- Пошуковий сервіс Вищого господарського суду України (оголошення та повідомлення). http://vgsu.arbitr.gov.ua/pages/157  
 
 # Аналіз відкритих даних
 - http://moneta.org.ua/sledite-za-dengami-posobie-dlya-zhurnalistov.html
