@@ -2,7 +2,6 @@
 <!-- SUBTITLE: -->
 
 # Державні реєстри і сервіси
-- Інструменти аналізу закупівель: https://clarity-project.info/
 - Кабінет адміністративних послуг https://kap.minjust.gov.ua/
 - Кабінет онлайн послуг Мінюсту https://online.minjust.gov.ua/login
 - Інспекційний портал https://inspections.gov.ua/
@@ -18,6 +17,7 @@
 - The Open Database Of The Corporate World https://opencorporates.com
 - Дані з реєстрів ЄДР https://ring.org.ua/
 - ЧЕСНО. Фільтруй суд! https://chesnosud.org/
+- Інструменти аналізу закупівель: https://clarity-project.info/
 
 # Міжнародні бази даних
 ## Естонська Республіка
