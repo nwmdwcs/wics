@@ -14,7 +14,7 @@
 [Державні реєстри](https://wicase.herokuapp.com/reyestr)
 # Статті, посилання:
 [Веб-ресурс для організації проектів](https://trello.com)
-[Визначник невідомомого телефонного номера](https://www.truecaller.com/)
+[Визначник невідомого телефонного номера](https://www.truecaller.com/)
 [Бібліотека онлайн підпису документів ЕЦП](http://js.sign.eu.iit.com.ua/)
 # Оформлення інформації на цьому сайті:
 [Що таке Markdown](https://guides.hexlet.io/markdown)
