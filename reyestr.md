@@ -11,6 +11,7 @@
 - Сервіс Державної фіскальної служби України «Бізнес-партнер». http://sfs.gov.ua/businesspartner
 - Єдиний державний реєстр судових рішень http://www.reyestr.court.gov.ua/
 - Пошуковий сервіс Вищого господарського суду України (оголошення та повідомлення). http://vgsu.arbitr.gov.ua/pages/157  
+- Єдиний веб-портал використання публічних коштів  https://spending.gov.ua
 
 # Аналіз відкритих даних
 - http://moneta.org.ua/sledite-za-dengami-posobie-dlya-zhurnalistov.html
