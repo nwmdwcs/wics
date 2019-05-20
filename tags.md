@@ -243,3 +243,6 @@ http://www.reyestr.court.gov.ua/Review/75149541 - позиція ВП ВС, зг
 
 
 Рішення від 12.07.2018 по делу ТОВ ФК Вектор плюс, ВСУ 6-2947цс15 від 03.02.2016 - интересная позиция по мораторию
+
+Рубрикатор Barristers
+https://barristers.org.ua/news/pravovi-pozytsiyi-vykladeni-u-postanovah-verhovnogo-sudu-ukrayiny-klasyfikovano-za-kategoriyamy-tsyvilnyh-sprav/
